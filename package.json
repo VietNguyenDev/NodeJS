@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Nodejs beginner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VietNguyenDev/NodeJS.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "expressjs",
+    "mySQL"
+  ],
+  "author": "VietNguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VietNguyenDev/NodeJS/issues"
+  },
+  "homepage": "https://github.com/VietNguyenDev/NodeJS#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
